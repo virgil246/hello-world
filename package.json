@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "video.js": "^7.10.2",
+    "vue": "^3.0.0",
+    "vue-video-player": "^5.0.2",
+    "webtorrent": "^0.112.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
